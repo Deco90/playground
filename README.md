@@ -11,10 +11,6 @@ React
 
 JavaScript (ES6+)
 
-CSS Modules / Tailwind / styled-components (adjust depending on your actual setup)
-
-[Add any other libraries you’re using]
-
 📂 Project Structure
 bash
 Copy
